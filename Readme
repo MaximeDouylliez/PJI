@@ -1,0 +1,50 @@
+TODO:
+lancer powerapi avec gestion du gnuplot auto. se mettre dans la racine de powerapi
+./run.sh -output gnuplot -pid 1978,10778 -aggregator process -time 1
+recuperation des données, du .plot et du graph dans tool powerapi
+
+traiter les valeurs négative qui deguelassent tout ! (savoir le nombre d'element par ligne) traiter en fonction du nombre d'élément.
+kill -2 -2343
+
+Script!
+
+Sampling
+LunchPowerSpy
+LunchSpec
+Move'n'OrderResult
+PlotResult
+CompareResult?
+
+
+
+
+
+Les benchmark de cpu2006 vont utiliser le cpu a pleine charge? -> peut t'on parametrer un niveau de charge particulier comme dans stress ou faut t'il chercher d'autre benchmark pour tester un niveau de charge variable ?
+
+Comment ranger intelligement les résultat de 30 benchmark, executé a chaque économie d'energie modifiée ?
+Comment ranger intelligement les résultat de 30 benchmark, executé a chaque économie d'energie modifiée ?
+
+
+
+Comment analyser intélligement les résultats ?
+
+
+
+
+
+
+Si les courbes correspondent , le benchmark doit continuer pour pouver que les courbes correspondent jusqu'a la fin.
+Si les courbes ne correspondent pas, le benchmark doit continuer pour obtenir l'evolution de la différence au cour du benchmark 
+Est t'il souhaitable , Est-il possible d'arreter les test en plein millieu pour gagner du temps ?
+
+
+
+
+Script!
+
+Sampling
+LunchPowerSpy
+LunchSpecSuite
+Move'n'OrderResult
+PlotResult
+CompareResult?
